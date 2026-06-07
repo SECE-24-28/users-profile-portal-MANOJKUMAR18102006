@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Environment variables (contains secrets)
+.env
+.env.local
+.env*.local
+
+# Prisma generated client
+prisma/generated/
+
+# Misc
+.DS_Store
+*.pem
+npm-debug.log*
